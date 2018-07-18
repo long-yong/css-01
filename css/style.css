@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    padding: 0px;
+    border: 0px;
+    vertical-align: top;
+}
+
+#container {
+    background-color: rgb(214, 209, 177);
+    width: 548px;
+    height: 508px;
+    margin: 20px;
+    padding: 20px;            
+}
+
+img.space {
+    height: 50px;
+    width: 62px;
+    display: inline-block;
+}
+
+img.left {
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+
+ h2.header {
+    display: inline-block;
+   
+}
+
+img.right {
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+
+img.main {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 1px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.clear {
+    clear: both;
+}
